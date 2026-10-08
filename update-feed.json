@@ -1,0 +1,9 @@
+{
+  "product": "Storyboard Studio",
+  "distribution": "installers-and-update-files-only",
+  "source": "private",
+  "platforms": [
+    "windows-x64"
+  ],
+  "status": "awaiting-reviewed-release"
+}
